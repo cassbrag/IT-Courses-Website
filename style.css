@@ -1,0 +1,133 @@
+html {
+  width: 1150px;
+  margin: auto;
+  background-color: white;
+}
+
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#p1, #p2, #p3, #p4, #p5, #p6 {
+  font-size: 80%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 48px;
+}
+
+h2 {
+  padding-left: 25px;
+}
+
+h3 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+div {
+  height: 100%;
+  width: 98%;
+}
+
+.c1 b {
+  padding-left: 180px;
+  font-size: 14px;
+}
+
+.form {
+  padding-top: 175px;
+  margin: 0;
+  width: 100px;
+  position: fixed;
+}
+
+.header {
+  text-align: right;
+  font-size: 70%; 
+}
+
+.header h3 {
+  padding-right: 40px;
+}
+
+.header img {
+  float: left;
+  clear: right;
+  margin: 5px 0px 25px 568px;
+}
+
+.main {
+  display: flex;
+}
+
+.nav {
+  padding-top: 25px;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: none;
+  position: fixed; 
+  background-image: url("http://thumb9.shutterstock.com/display_pic_with_logo/502930/118745122/stock-photo-light-green-marble-background-118745122.jpg")
+}
+
+.nav li a {
+  display: block;
+  color: #019198;
+  padding: 8px 0px 8px 45px;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  background-color: #8adbb3;
+  color: white;
+}
+
+.mid {
+  min-width: 85%;
+  text-align: center;
+  line-height: 20px;
+}
+
+.mid h2, h3 {
+  line-height: 15px;
+}
+
+.mid p {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: center;
+}
+
+.mid ul {
+  text-align: left;
+  padding-left: 60px;
+}
+
+table {
+  table-layout: fixed;
+  border: lightblue;
+  border-style: none;
+}
+
+table h3 {
+  line-height: 20px;	
+}
+
+.table {
+  padding-left: 50px;
+  padding-bottom: 10px;
+}
